@@ -1,0 +1,7 @@
+Confusion matrix result
+
+Experiment one : predict the next domain categoriy
+
+Experiment two : predict the next time interval betweeen two events
+
+Experiment three : predict future domain categories ratio (Top1 ~ Top3)
